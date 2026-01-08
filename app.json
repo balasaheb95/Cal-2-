@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Pune Calculator",
-    "slug": "calculator-2-2",
+    "slug": "cal-2",
     "version": "1.0.0",
     "android": {
       "package": "com.balasaheb.pune_calculator"
